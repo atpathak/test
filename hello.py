@@ -1,5 +1,5 @@
 hello=input ("want to say something?")
-if hello==1:
+if hello==0:
     print("Hello world")
 else:
     print("go to bed")
